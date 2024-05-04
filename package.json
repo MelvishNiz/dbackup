@@ -21,6 +21,7 @@
     "@nuxt/eslint-config": "^0.3.10",
     "@nuxtjs/eslint-module": "^4.1.0",
     "autoprefixer": "^10.4.19",
+    "dayjs": "^1.11.11",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
